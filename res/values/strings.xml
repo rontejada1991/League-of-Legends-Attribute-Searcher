@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoL CF 0.8</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="title_activity_champion_select">Champion Select</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_attribute_select">Advanced Attribute Select</string>
+    <string name="title_activity_glossary">Glossary</string>
+    <string name="backdes">background</string>
+    <string name="title_activity_single_champion">Single Champion</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
